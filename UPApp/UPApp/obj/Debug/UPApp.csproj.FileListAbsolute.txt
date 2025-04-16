@@ -1,0 +1,129 @@
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp.csproj.AssemblyReference.cache
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\MainWindow.g.cs
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\App.g.cs
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.cache
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.lref
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\AuthWindow.g.cs
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\BloodServiceDialog.g.cs
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\bin\Debug\UPApp.exe.config
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\bin\Debug\UPApp.exe
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\bin\Debug\UPApp.pdb
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\MainWindow.baml
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\AuthWindow.baml
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\BloodServiceDialog.baml
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp.g.resources
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp.Properties.Resources.resources
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp.csproj.GenerateResource.cache
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp.csproj.CoreCompileInputs.cache
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp.exe
+C:\Users\Рамазан Маннапов\Desktop\В3\Vars3\UPApp\UPApp\obj\Debug\UPApp.pdb
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\bin\Debug\UPApp.exe.config
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\bin\Debug\UPApp.exe
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\bin\Debug\UPApp.pdb
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp.csproj.AssemblyReference.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\AuthWindow.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\BloodServiceDialog.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\MainWindow.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\App.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.lref
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\AuthWindow.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\BloodServiceDialog.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\MainWindow.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp.g.resources
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp.Properties.Resources.resources
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp.csproj.GenerateResource.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp.csproj.CoreCompileInputs.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp.exe
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Six\UPApp\UPApp\obj\Debug\UPApp.pdb
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\bin\Debug\UPApp.exe.config
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\bin\Debug\UPApp.exe
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\bin\Debug\UPApp.pdb
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp.csproj.AssemblyReference.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\BloodDialog.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\AuthWindow.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\BloodServiceDialog.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\MainWindow.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\BloodDialog.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\App.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.lref
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\AuthWindow.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\BloodServiceDialog.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\MainWindow.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp.g.resources
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp.Properties.Resources.resources
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp.csproj.GenerateResource.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp.csproj.CoreCompileInputs.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp.exe
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Seven\UPApp\UPApp\obj\Debug\UPApp.pdb
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp.csproj.AssemblyReference.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\BloodDialog.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\AuthWindow.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\BloodServiceDialog.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\MainWindow.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\BloodDialog.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\App.g.cs
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.lref
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp.exe
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp.pdb
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\bin\Debug\UPApp.exe.config
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\bin\Debug\UPApp.exe
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\bin\Debug\UPApp.pdb
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\App.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\AuthWindow.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\BloodServiceDialog.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\MainWindow.baml
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp.g.resources
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp.Properties.Resources.resources
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp.csproj.GenerateResource.cache
+C:\Users\DendroDed\Desktop\PR\Diplom\UP\Eight\UPApp\UPApp\obj\Debug\UPApp.csproj.CoreCompileInputs.cache
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\bin\Debug\UPApp.exe.config
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\bin\Debug\UPApp.exe
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\bin\Debug\UPApp.pdb
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.csprojAssemblyReference.cache
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodDialog.baml
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\AuthWindow.g.cs
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodServiceDialog.g.cs
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\MainWindow.g.cs
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodDialog.g.cs
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\App.g.cs
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.cache
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.lref
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\App.baml
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\AuthWindow.baml
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodServiceDialog.baml
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\MainWindow.baml
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.g.resources
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.Properties.Resources.resources
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.csproj.GenerateResource.cache
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.csproj.CoreCompileInputs.cache
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.exe
+C:\Users\Павел Бикбатыров\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.pdb
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.csproj.AssemblyReference.cache
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodDialog.baml
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\AuthWindow.g.cs
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodServiceDialog.g.cs
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\MainWindow.g.cs
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodDialog.g.cs
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\Views\AdminWindow.g.cs
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\Views\BugalterWindow.g.cs
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\App.g.cs
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.cache
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp_MarkupCompile.lref
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.exe
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.pdb
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\bin\Debug\UPApp.exe.config
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\bin\Debug\UPApp.exe
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\bin\Debug\UPApp.pdb
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\App.baml
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\AuthWindow.baml
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\BloodServiceDialog.baml
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\MainWindow.baml
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\Views\AdminWindow.baml
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\Views\BugalterWindow.baml
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.g.resources
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.Properties.Resources.resources
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.csproj.GenerateResource.cache
+C:\Users\install\Desktop\Versions\First\UPApp\UPApp\obj\Debug\UPApp.csproj.CoreCompileInputs.cache

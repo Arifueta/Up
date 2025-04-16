@@ -1,0 +1,52 @@
+<Window x:Class="UPApp.BloodServiceDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UPApp"
+        mc:Ignorable="d"
+        Title="Blood Service" Height="450" Width="400"
+        WindowStartupLocation="CenterOwner">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Result:" Grid.Row="0" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+        <TextBox Text="{Binding BloodService.Result}" Grid.Row="0" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Text="Finished:" Grid.Row="1" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+        <DatePicker SelectedDate="{Binding BloodService.Finished}" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Text="Accepted:" Grid.Row="2" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+        <CheckBox IsChecked="{Binding BloodService.Accepted}" Grid.Row="2" Grid.Column="1" Margin="5" VerticalAlignment="Center"/>
+
+        <TextBlock Text="Status:" Grid.Row="3" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+        <ComboBox ItemsSource="{Binding Statuses}" 
+                  SelectedItem="{Binding BloodService.Status}"
+                  Grid.Row="3" Grid.Column="1" Margin="5"/>
+
+        <TextBlock Text="Analyzer:" Grid.Row="4" Grid.Column="0" Margin="5" VerticalAlignment="Center"/>
+        <ComboBox ItemsSource="{Binding Analyzers}" 
+                  SelectedItem="{Binding BloodService.Analyzer}"
+                  Grid.Row="4" Grid.Column="1" Margin="5"/>
+
+        <StackPanel Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2" 
+                    Orientation="Horizontal" HorizontalAlignment="Right" Margin="5">
+            <Button Content="Save" Command="{Binding SaveCommand}" Width="80" Margin="5"/>
+            <Button Content="Cancel" Command="{Binding CancelCommand}" Width="80" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window> 
